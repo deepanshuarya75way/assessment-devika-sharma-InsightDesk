@@ -22,6 +22,12 @@ Make sure the following are installed:
 
 Vite 8 requires Node.js 20.19+ or 22.12+.
 
+## ScreenShots
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/805a388f-fe49-438d-a4e0-d6b8efb6931f" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/bfb7e996-bec7-4285-a50c-ad2847d90492" />
+
+
+
 ## Run the Project
 
 The frontend and backend need to run separately.
