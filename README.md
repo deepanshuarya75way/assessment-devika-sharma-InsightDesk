@@ -6,9 +6,11 @@ It helps analyze customer feedback by classifying messages based on **sentiment,
 
 ## Tech Stack
 
-Frontend: React, Vite, Recharts
-Backend: Flask, Python
-AI/ML: scikit-learn, Pandas, NumPy
+*Frontend*: React, Vite, Recharts
+
+*Backend*: Flask, Python
+
+*AI/ML*: scikit-learn, Pandas, NumPy
 
 
 
