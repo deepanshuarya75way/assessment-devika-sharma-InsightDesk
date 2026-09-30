@@ -25,7 +25,7 @@ Make sure the following are installed:
 Vite 8 requires Node.js 20.19+ or 22.12+.
 
 ## ScreenShots
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/01e05849-5358-446b-9d79-ef5d61645068" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/520d9133-f252-41c2-b950-e85a00c54a75" />
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e3370412-d9a4-442c-8ac5-7185244cafb2" />
 
