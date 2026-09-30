@@ -177,41 +177,4 @@ For normal local development, this file is optional because the frontend already
 | GET    | `/api/stats`    | Get feedback statistics        |
 | POST   | `/api/analyze`  | Analyze a new feedback message |
 
-## Dataset
 
-The dataset is located at:
-
-```text
-backend/dataset.csv
-```
-
-It contains customer feedback and labels used by the application.
-
-Current columns:
-
-```text
-customer
-text
-sentiment
-category
-priority
-time
-date
-resolution_hours
-```
-
-The repository currently contains **200 feedback records**.
-
-Example:
-
-```csv
-customer,text,sentiment,category,priority,time,date,resolution_hours
-Rahul Mehta,Payment failed but the amount was deducted from my account,negative,payment,high,1 hr ago,2026-04-01,11
-```
-
----
-
-
-### Analytics
-
-Provides visualizations for feedbac
