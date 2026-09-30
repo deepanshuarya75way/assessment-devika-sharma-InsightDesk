@@ -1,0 +1,201 @@
+customer,text,sentiment,category,priority,time,date,resolution_hours
+Rahul Mehta,Payment failed but the amount was deducted from my account,negative,payment,high,1 hr ago,2026-04-01,11
+Priya Sharma,My password reset link is not working,negative,login,medium,2 hr ago,2026-04-01,5
+Aman Verma,My package has been stuck in transit for two days,negative,delivery,medium,3 hr ago,2026-04-02,21
+Neha Singh,The app crashes after I open the dashboard,negative,technical,high,4 hr ago,2026-04-02,26
+Vikram Rao,My complaint has been open for several days with no update,negative,support,medium,5 hr ago,2026-04-03,7
+Riya Kapoor,The payment went through instantly and the receipt arrived immediately,positive,payment,low,6 hr ago,2026-04-03,12
+Arjun Malhotra,I successfully changed my password without any problem,positive,login,low,7 hr ago,2026-04-04,6
+Simran Kaur,The courier was quick and professional Please help me resolve this.,positive,delivery,low,8 hr ago,2026-04-04,19
+Mohit Kumar,The recent performance improvements are noticeable Please help me resolve this.,positive,technical,low,9 hr ago,2026-04-05,28
+Anjali Gupta,The support representative was polite Please help me resolve this.,positive,support,low,10 hr ago,2026-04-05,4
+Karan Sharma,The refund is currently being processed Please help me resolve this.,neutral,payment,medium,11 hr ago,2026-04-06,10
+Pooja Verma,The session expired and I had to sign in again Please help me resolve this.,neutral,login,medium,1 hr ago,2026-04-06,6
+Nitin Arora,The package is still in transit Please help me resolve this.,neutral,delivery,medium,2 hr ago,2026-04-07,21
+Sneha Joshi,The dashboard takes a few seconds to load Please help me resolve this.,neutral,technical,low,3 hr ago,2026-04-07,26
+Harsh Mehta,The support request is still open I need an update as soon as possible.,neutral,support,low,4 hr ago,2026-04-08,4
+Megha Saini,Money was deducted but the order was not created I need an update as soon as possible.,negative,payment,high,5 hr ago,2026-04-08,13
+Yash Bansal,The login page freezes after entering my password I need an update as soon as possible.,negative,login,medium,6 hr ago,2026-04-09,10
+Dev Kapoor,The courier marked the package delivered but I did not receive it I need an update as soon as possible.,negative,delivery,medium,7 hr ago,2026-04-09,21
+Isha Jain,The latest update introduced a bug in the checkout flow I need an update as soon as possible.,negative,technical,high,8 hr ago,2026-04-10,29
+Rohan Das,My issue is still unresolved after contacting support I need an update as soon as possible.,negative,support,medium,9 hr ago,2026-04-10,7
+Aditi Sharma,The payment went through instantly and the receipt arrived immediately I need an update as soon as possible.,positive,payment,low,10 hr ago,2026-04-11,10
+Manav Gupta,I successfully changed my password without any problem This happened today.,positive,login,low,11 hr ago,2026-04-11,7
+Sahil Verma,The courier was quick and professional This happened today.,positive,delivery,low,1 hr ago,2026-04-12,23
+Tanya Singh,The recent performance improvements are noticeable This happened today.,positive,technical,low,2 hr ago,2026-04-12,27
+Abhishek Rao,The customer care team fixed my issue This happened today.,positive,support,low,3 hr ago,2026-04-13,7
+Komal Yadav,The transaction status has not changed yet This happened today.,neutral,payment,medium,4 hr ago,2026-04-13,12
+Varun Sharma,The account verification is still in progress This happened today.,neutral,login,medium,5 hr ago,2026-04-14,8
+Nisha Kapoor,The shipment status has not changed today This happened today.,neutral,delivery,medium,6 hr ago,2026-04-14,22
+Deepak Jain,The app is slow but still usable I am checking for a resolution.,neutral,technical,low,7 hr ago,2026-04-15,24
+Shreya Mehta,My support ticket is currently being reviewed I am checking for a resolution.,neutral,support,low,8 hr ago,2026-04-15,5
+Aditya Kumar,Payment failed but the amount was deducted from my account I am checking for a resolution.,negative,payment,high,9 hr ago,2026-04-16,15
+Muskan Gupta,My password reset link is not working I am checking for a resolution.,negative,login,medium,10 hr ago,2026-04-16,6
+Rohit Saini,My package has been stuck in transit for two days I am checking for a resolution.,negative,delivery,medium,11 hr ago,2026-04-17,22
+Kriti Arora,The app crashes after I open the dashboard I am checking for a resolution.,negative,technical,high,1 hr ago,2026-04-17,27
+Gaurav Malik,My complaint has been open for several days with no update I am checking for a resolution.,negative,support,medium,2 hr ago,2026-04-18,7
+Tanvi Bansal,The payment went through instantly and the receipt arrived immediately,positive,payment,low,3 hr ago,2026-04-18,10
+Vivek Sharma,I successfully changed my password without any problem,positive,login,low,4 hr ago,2026-04-19,11
+Ishita Rao,The courier was quick and professional,positive,delivery,low,5 hr ago,2026-04-19,19
+Pranav Kapoor,The recent performance improvements are noticeable,positive,technical,low,6 hr ago,2026-04-20,28
+Divya Mehta,The support agent explained the solution clearly,positive,support,low,7 hr ago,2026-04-20,5
+Akash Verma,The payment is still pending and I am waiting for an update,neutral,payment,medium,8 hr ago,2026-04-21,13
+Sakshi Jain,I am waiting for the password reset email,neutral,login,medium,9 hr ago,2026-04-21,9
+Yuvraj Singh,Tracking shows the package is out for delivery Please help me resolve this.,neutral,delivery,medium,10 hr ago,2026-04-22,21
+Nandini Gupta,The latest version is working but feels slightly slower Please help me resolve this.,neutral,technical,low,11 hr ago,2026-04-22,24
+Parth Arora,I am waiting for the support team to respond Please help me resolve this.,neutral,support,low,1 hr ago,2026-04-23,4
+Kavya Sharma,Money was deducted but the order was not created Please help me resolve this.,negative,payment,high,2 hr ago,2026-04-23,13
+Manish Rao,The login page freezes after entering my password Please help me resolve this.,negative,login,medium,3 hr ago,2026-04-24,8
+Ritika Kapoor,The courier marked the package delivered but I did not receive it Please help me resolve this.,negative,delivery,medium,4 hr ago,2026-04-24,19
+Ankit Mehta,The latest update introduced a bug in the checkout flow Please help me resolve this.,negative,technical,high,5 hr ago,2026-04-25,26
+Pallavi Verma,My issue is still unresolved after contacting support I need an update as soon as possible.,negative,support,medium,6 hr ago,2026-04-25,5
+Rahul Mehta,The payment went through instantly and the receipt arrived immediately I need an update as soon as possible.,positive,payment,low,7 hr ago,2026-04-26,15
+Priya Sharma,I successfully changed my password without any problem I need an update as soon as possible.,positive,login,low,8 hr ago,2026-04-26,8
+Aman Verma,The courier was quick and professional I need an update as soon as possible.,positive,delivery,low,9 hr ago,2026-04-27,24
+Neha Singh,The recent performance improvements are noticeable I need an update as soon as possible.,positive,technical,low,10 hr ago,2026-04-27,27
+Vikram Rao,Support responded quickly and solved the problem I need an update as soon as possible.,positive,support,low,11 hr ago,2026-04-28,6
+Riya Kapoor,The payment took longer than usual to complete I need an update as soon as possible.,neutral,payment,medium,1 hr ago,2026-04-28,14
+Arjun Malhotra,The login process takes a little longer than expected This happened today.,neutral,login,medium,2 hr ago,2026-04-29,9
+Simran Kaur,The delivery date is scheduled for tomorrow This happened today.,neutral,delivery,medium,3 hr ago,2026-04-29,21
+Mohit Kumar,There is a small UI issue but everything works This happened today.,neutral,technical,low,4 hr ago,2026-04-30,26
+Anjali Gupta,The agent asked for more details about my issue This happened today.,neutral,support,low,5 hr ago,2026-04-30,5
+Karan Sharma,Payment failed but the amount was deducted from my account This happened today.,negative,payment,high,6 hr ago,2026-05-01,12
+Pooja Verma,My password reset link is not working This happened today.,negative,login,medium,7 hr ago,2026-05-01,8
+Nitin Arora,My package has been stuck in transit for two days This happened today.,negative,delivery,medium,8 hr ago,2026-05-02,20
+Sneha Joshi,The app crashes after I open the dashboard I am checking for a resolution.,negative,technical,high,9 hr ago,2026-05-02,29
+Harsh Mehta,My complaint has been open for several days with no update I am checking for a resolution.,negative,support,medium,10 hr ago,2026-05-03,9
+Megha Saini,The payment went through instantly and the receipt arrived immediately I am checking for a resolution.,positive,payment,low,11 hr ago,2026-05-03,13
+Yash Bansal,I successfully changed my password without any problem I am checking for a resolution.,positive,login,low,1 hr ago,2026-05-04,8
+Dev Kapoor,The courier was quick and professional I am checking for a resolution.,positive,delivery,low,2 hr ago,2026-05-04,22
+Isha Jain,The recent performance improvements are noticeable I am checking for a resolution.,positive,technical,low,3 hr ago,2026-05-05,23
+Rohan Das,The customer service team was professional I am checking for a resolution.,positive,support,low,4 hr ago,2026-05-05,7
+Aditi Sharma,The refund is currently being processed,neutral,payment,medium,1 days ago,2026-05-06,10
+Manav Gupta,The session expired and I had to sign in again,neutral,login,medium,2 days ago,2026-05-06,9
+Sahil Verma,The package is still in transit,neutral,delivery,medium,3 days ago,2026-05-07,23
+Tanya Singh,The dashboard takes a few seconds to load,neutral,technical,low,4 days ago,2026-05-07,26
+Abhishek Rao,The support request is still open,neutral,support,low,5 days ago,2026-05-08,5
+Komal Yadav,Money was deducted but the order was not created,negative,payment,high,6 days ago,2026-05-08,13
+Varun Sharma,The login page freezes after entering my password,negative,login,medium,7 days ago,2026-05-09,9
+Nisha Kapoor,The courier marked the package delivered but I did not receive it Please help me resolve this.,negative,delivery,medium,1 days ago,2026-05-09,21
+Deepak Jain,The latest update introduced a bug in the checkout flow Please help me resolve this.,negative,technical,high,2 days ago,2026-05-10,29
+Shreya Mehta,My issue is still unresolved after contacting support Please help me resolve this.,negative,support,medium,3 days ago,2026-05-10,9
+Aditya Kumar,The payment went through instantly and the receipt arrived immediately Please help me resolve this.,positive,payment,low,4 days ago,2026-05-11,16
+Muskan Gupta,I successfully changed my password without any problem Please help me resolve this.,positive,login,low,5 days ago,2026-05-11,7
+Rohit Saini,The courier was quick and professional Please help me resolve this.,positive,delivery,low,6 days ago,2026-05-12,21
+Kriti Arora,The recent performance improvements are noticeable Please help me resolve this.,positive,technical,low,7 days ago,2026-05-12,25
+Gaurav Malik,Support team resolved my issue quickly and was helpful I need an update as soon as possible.,positive,support,low,1 days ago,2026-05-13,7
+Tanvi Bansal,The transaction status has not changed yet I need an update as soon as possible.,neutral,payment,medium,2 days ago,2026-05-13,13
+Vivek Sharma,The account verification is still in progress I need an update as soon as possible.,neutral,login,medium,3 days ago,2026-05-14,10
+Ishita Rao,The shipment status has not changed today I need an update as soon as possible.,neutral,delivery,medium,4 days ago,2026-05-14,23
+Pranav Kapoor,The app is slow but still usable I need an update as soon as possible.,neutral,technical,low,5 days ago,2026-05-15,27
+Divya Mehta,My support ticket is currently being reviewed I need an update as soon as possible.,neutral,support,low,6 days ago,2026-05-15,7
+Akash Verma,Payment failed but the amount was deducted from my account I need an update as soon as possible.,negative,payment,high,7 days ago,2026-05-16,12
+Sakshi Jain,My password reset link is not working This happened today.,negative,login,medium,1 days ago,2026-05-16,11
+Yuvraj Singh,My package has been stuck in transit for two days This happened today.,negative,delivery,medium,2 days ago,2026-05-17,19
+Nandini Gupta,The app crashes after I open the dashboard This happened today.,negative,technical,high,3 days ago,2026-05-17,23
+Parth Arora,My complaint has been open for several days with no update This happened today.,negative,support,medium,4 days ago,2026-05-18,5
+Kavya Sharma,The payment went through instantly and the receipt arrived immediately This happened today.,positive,payment,low,5 days ago,2026-05-18,12
+Manish Rao,I successfully changed my password without any problem This happened today.,positive,login,low,6 days ago,2026-05-19,7
+Ritika Kapoor,The courier was quick and professional This happened today.,positive,delivery,low,7 days ago,2026-05-19,23
+Ankit Mehta,The recent performance improvements are noticeable I am checking for a resolution.,positive,technical,low,1 days ago,2026-05-20,24
+Pallavi Verma,Customer support was quick to respond I am checking for a resolution.,positive,support,low,2 days ago,2026-05-20,9
+Rahul Mehta,The payment is still pending and I am waiting for an update I am checking for a resolution.,neutral,payment,medium,3 days ago,2026-05-21,15
+Priya Sharma,I am waiting for the password reset email I am checking for a resolution.,neutral,login,medium,4 days ago,2026-05-21,11
+Aman Verma,Tracking shows the package is out for delivery I am checking for a resolution.,neutral,delivery,medium,5 days ago,2026-05-22,21
+Neha Singh,The latest version is working but feels slightly slower I am checking for a resolution.,neutral,technical,low,6 days ago,2026-05-22,23
+Vikram Rao,I am waiting for the support team to respond I am checking for a resolution.,neutral,support,low,7 days ago,2026-05-23,5
+Riya Kapoor,Money was deducted but the order was not created,negative,payment,high,1 days ago,2026-05-23,13
+Arjun Malhotra,The login page freezes after entering my password,negative,login,medium,2 days ago,2026-05-24,9
+Simran Kaur,The courier marked the package delivered but I did not receive it,negative,delivery,medium,3 days ago,2026-05-24,19
+Mohit Kumar,The latest update introduced a bug in the checkout flow,negative,technical,high,4 days ago,2026-05-25,26
+Anjali Gupta,My issue is still unresolved after contacting support,negative,support,medium,5 days ago,2026-05-25,9
+Karan Sharma,The payment went through instantly and the receipt arrived immediately,positive,payment,low,6 days ago,2026-05-26,12
+Pooja Verma,I successfully changed my password without any problem,positive,login,low,7 days ago,2026-05-26,11
+Nitin Arora,The courier was quick and professional Please help me resolve this.,positive,delivery,low,1 days ago,2026-05-27,18
+Sneha Joshi,The recent performance improvements are noticeable Please help me resolve this.,positive,technical,low,2 days ago,2026-05-27,26
+Harsh Mehta,The support representative was polite Please help me resolve this.,positive,support,low,3 days ago,2026-05-28,6
+Megha Saini,The payment took longer than usual to complete Please help me resolve this.,neutral,payment,medium,4 days ago,2026-05-28,11
+Yash Bansal,The login process takes a little longer than expected Please help me resolve this.,neutral,login,medium,5 days ago,2026-05-29,8
+Dev Kapoor,The delivery date is scheduled for tomorrow Please help me resolve this.,neutral,delivery,medium,6 days ago,2026-05-29,21
+Isha Jain,There is a small UI issue but everything works Please help me resolve this.,neutral,technical,low,7 days ago,2026-05-30,25
+Rohan Das,The agent asked for more details about my issue I need an update as soon as possible.,neutral,support,low,1 days ago,2026-05-30,8
+Aditi Sharma,Payment failed but the amount was deducted from my account I need an update as soon as possible.,negative,payment,high,2 days ago,2026-05-31,12
+Manav Gupta,My password reset link is not working I need an update as soon as possible.,negative,login,medium,3 days ago,2026-05-31,5
+Sahil Verma,My package has been stuck in transit for two days I need an update as soon as possible.,negative,delivery,medium,4 days ago,2026-06-01,22
+Tanya Singh,The app crashes after I open the dashboard I need an update as soon as possible.,negative,technical,high,5 days ago,2026-06-01,29
+Abhishek Rao,My complaint has been open for several days with no update I need an update as soon as possible.,negative,support,medium,6 days ago,2026-06-02,4
+Komal Yadav,The payment went through instantly and the receipt arrived immediately I need an update as soon as possible.,positive,payment,low,7 days ago,2026-06-02,11
+Varun Sharma,I successfully changed my password without any problem This happened today.,positive,login,low,1 days ago,2026-06-03,9
+Nisha Kapoor,The courier was quick and professional This happened today.,positive,delivery,low,2 days ago,2026-06-03,21
+Deepak Jain,The recent performance improvements are noticeable This happened today.,positive,technical,low,3 days ago,2026-06-04,26
+Shreya Mehta,The customer care team fixed my issue This happened today.,positive,support,low,4 days ago,2026-06-04,4
+Aditya Kumar,The refund is currently being processed This happened today.,neutral,payment,medium,5 days ago,2026-06-05,13
+Muskan Gupta,The session expired and I had to sign in again This happened today.,neutral,login,medium,6 days ago,2026-06-05,6
+Rohit Saini,The package is still in transit This happened today.,neutral,delivery,medium,7 days ago,2026-06-06,19
+Kriti Arora,The dashboard takes a few seconds to load I am checking for a resolution.,neutral,technical,low,1 days ago,2026-06-06,29
+Gaurav Malik,The support request is still open I am checking for a resolution.,neutral,support,low,2 days ago,2026-06-07,5
+Tanvi Bansal,Money was deducted but the order was not created I am checking for a resolution.,negative,payment,high,3 days ago,2026-06-07,12
+Vivek Sharma,The login page freezes after entering my password I am checking for a resolution.,negative,login,medium,4 days ago,2026-06-08,7
+Ishita Rao,The courier marked the package delivered but I did not receive it I am checking for a resolution.,negative,delivery,medium,5 days ago,2026-06-08,24
+Pranav Kapoor,The latest update introduced a bug in the checkout flow I am checking for a resolution.,negative,technical,high,6 days ago,2026-06-09,25
+Divya Mehta,My issue is still unresolved after contacting support I am checking for a resolution.,negative,support,medium,7 days ago,2026-06-09,7
+Akash Verma,The payment went through instantly and the receipt arrived immediately,positive,payment,low,1 days ago,2026-06-10,15
+Sakshi Jain,I successfully changed my password without any problem,positive,login,low,2 days ago,2026-06-10,8
+Yuvraj Singh,The courier was quick and professional,positive,delivery,low,3 days ago,2026-06-11,21
+Nandini Gupta,The recent performance improvements are noticeable,positive,technical,low,4 days ago,2026-06-11,26
+Parth Arora,The support agent explained the solution clearly,positive,support,low,5 days ago,2026-06-12,9
+Kavya Sharma,The transaction status has not changed yet,neutral,payment,medium,6 days ago,2026-06-12,14
+Manish Rao,The account verification is still in progress,neutral,login,medium,7 days ago,2026-06-13,11
+Ritika Kapoor,The shipment status has not changed today Please help me resolve this.,neutral,delivery,medium,1 days ago,2026-06-13,24
+Ankit Mehta,The app is slow but still usable Please help me resolve this.,neutral,technical,low,2 days ago,2026-06-14,24
+Pallavi Verma,My support ticket is currently being reviewed Please help me resolve this.,neutral,support,low,3 days ago,2026-06-14,7
+Rahul Mehta,Payment failed but the amount was deducted from my account Please help me resolve this.,negative,payment,high,4 days ago,2026-06-15,13
+Priya Sharma,My password reset link is not working Please help me resolve this.,negative,login,medium,5 days ago,2026-06-15,6
+Aman Verma,My package has been stuck in transit for two days Please help me resolve this.,negative,delivery,medium,6 days ago,2026-06-16,22
+Neha Singh,The app crashes after I open the dashboard Please help me resolve this.,negative,technical,high,7 days ago,2026-06-16,23
+Vikram Rao,My complaint has been open for several days with no update I need an update as soon as possible.,negative,support,medium,1 days ago,2026-06-17,7
+Riya Kapoor,The payment went through instantly and the receipt arrived immediately I need an update as soon as possible.,positive,payment,low,2 days ago,2026-06-17,13
+Arjun Malhotra,I successfully changed my password without any problem I need an update as soon as possible.,positive,login,low,3 days ago,2026-06-18,5
+Simran Kaur,The courier was quick and professional I need an update as soon as possible.,positive,delivery,low,4 days ago,2026-06-18,19
+Mohit Kumar,The recent performance improvements are noticeable I need an update as soon as possible.,positive,technical,low,5 days ago,2026-06-19,23
+Anjali Gupta,Support responded quickly and solved the problem I need an update as soon as possible.,positive,support,low,6 days ago,2026-06-19,7
+Karan Sharma,The payment is still pending and I am waiting for an update I need an update as soon as possible.,neutral,payment,medium,7 days ago,2026-06-20,11
+Pooja Verma,I am waiting for the password reset email This happened today.,neutral,login,medium,1 days ago,2026-06-20,5
+Nitin Arora,Tracking shows the package is out for delivery This happened today.,neutral,delivery,medium,2 days ago,2026-06-21,22
+Sneha Joshi,The latest version is working but feels slightly slower This happened today.,neutral,technical,low,3 days ago,2026-06-21,24
+Harsh Mehta,I am waiting for the support team to respond This happened today.,neutral,support,low,4 days ago,2026-06-22,7
+Megha Saini,Money was deducted but the order was not created This happened today.,negative,payment,high,5 days ago,2026-06-22,13
+Yash Bansal,The login page freezes after entering my password This happened today.,negative,login,medium,6 days ago,2026-06-23,11
+Dev Kapoor,The courier marked the package delivered but I did not receive it This happened today.,negative,delivery,medium,7 days ago,2026-06-23,21
+Isha Jain,The latest update introduced a bug in the checkout flow I am checking for a resolution.,negative,technical,high,1 days ago,2026-06-24,25
+Rohan Das,My issue is still unresolved after contacting support I am checking for a resolution.,negative,support,medium,2 days ago,2026-06-24,10
+Aditi Sharma,The payment went through instantly and the receipt arrived immediately I am checking for a resolution.,positive,payment,low,3 days ago,2026-06-25,13
+Manav Gupta,I successfully changed my password without any problem I am checking for a resolution.,positive,login,low,4 days ago,2026-06-25,11
+Sahil Verma,The courier was quick and professional I am checking for a resolution.,positive,delivery,low,5 days ago,2026-06-26,23
+Tanya Singh,The recent performance improvements are noticeable I am checking for a resolution.,positive,technical,low,6 days ago,2026-06-26,26
+Abhishek Rao,The customer service team was professional I am checking for a resolution.,positive,support,low,7 days ago,2026-06-27,5
+Komal Yadav,The payment took longer than usual to complete,neutral,payment,medium,1 days ago,2026-06-27,11
+Varun Sharma,The login process takes a little longer than expected,neutral,login,medium,2 days ago,2026-06-28,10
+Nisha Kapoor,The delivery date is scheduled for tomorrow,neutral,delivery,medium,3 days ago,2026-06-28,22
+Deepak Jain,There is a small UI issue but everything works,neutral,technical,low,4 days ago,2026-06-29,28
+Shreya Mehta,The agent asked for more details about my issue,neutral,support,low,5 days ago,2026-06-29,9
+Aditya Kumar,Payment failed but the amount was deducted from my account,negative,payment,high,6 days ago,2026-06-30,16
+Muskan Gupta,My password reset link is not working,negative,login,medium,7 days ago,2026-06-30,5
+Rohit Saini,My package has been stuck in transit for two days Please help me resolve this.,negative,delivery,medium,1 days ago,2026-07-01,19
+Kriti Arora,The app crashes after I open the dashboard Please help me resolve this.,negative,technical,high,2 days ago,2026-07-01,23
+Gaurav Malik,My complaint has been open for several days with no update Please help me resolve this.,negative,support,medium,3 days ago,2026-07-02,9
+Tanvi Bansal,The payment went through instantly and the receipt arrived immediately Please help me resolve this.,positive,payment,low,4 days ago,2026-07-02,14
+Vivek Sharma,I successfully changed my password without any problem Please help me resolve this.,positive,login,low,5 days ago,2026-07-03,6
+Ishita Rao,The courier was quick and professional Please help me resolve this.,positive,delivery,low,6 days ago,2026-07-03,21
+Pranav Kapoor,The recent performance improvements are noticeable Please help me resolve this.,positive,technical,low,7 days ago,2026-07-04,26
+Divya Mehta,Support team resolved my issue quickly and was helpful I need an update as soon as possible.,positive,support,low,1 days ago,2026-07-04,7
+Akash Verma,The refund is currently being processed I need an update as soon as possible.,neutral,payment,medium,2 days ago,2026-07-05,16
+Sakshi Jain,The session expired and I had to sign in again I need an update as soon as possible.,neutral,login,medium,3 days ago,2026-07-05,7
+Yuvraj Singh,The package is still in transit I need an update as soon as possible.,neutral,delivery,medium,4 days ago,2026-07-06,23
+Nandini Gupta,The dashboard takes a few seconds to load I need an update as soon as possible.,neutral,technical,low,5 days ago,2026-07-06,25
+Parth Arora,The support request is still open I need an update as soon as possible.,neutral,support,low,6 days ago,2026-07-07,7
+Kavya Sharma,Money was deducted but the order was not created I need an update as soon as possible.,negative,payment,high,7 days ago,2026-07-07,16
+Manish Rao,The login page freezes after entering my password This happened today.,negative,login,medium,1 days ago,2026-07-08,8
+Ritika Kapoor,The courier marked the package delivered but I did not receive it This happened today.,negative,delivery,medium,2 days ago,2026-07-08,19
+Ankit Mehta,The latest update introduced a bug in the checkout flow This happened today.,negative,technical,high,3 days ago,2026-07-09,29
+Pallavi Verma,My issue is still unresolved after contacting support This happened today.,negative,support,medium,4 days ago,2026-07-09,5
