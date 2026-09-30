@@ -6,28 +6,9 @@ It helps analyze customer feedback by classifying messages based on **sentiment,
 
 ## Tech Stack
 
-### Frontend
-
-* React 19
-* Vite 8
-* React Router
-* Recharts
-* Lucide React
-
-### Backend
-
-* Python
-* Flask
-* Flask-CORS
-* Pandas
-* NumPy
-* scikit-learn
-
-### Machine Learning
-
-* TF-IDF Vectorization
-* Logistic Regression
-* Cosine Similarity
+Frontend: React, Vite, Recharts
+Backend: Flask, Python
+AI/ML: scikit-learn, Pandas, NumPy
 
 
 
