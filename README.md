@@ -32,10 +32,15 @@ Vite 8 requires Node.js 20.19+ or 22.12+.
 ## Known Limitations
 
 Dashboard analytics are partly demo/static.
+
 No token based authentication.
+
 CSV used instead of a database.
+
 Some Settings, Reports, and Upload options are UI placeholders.
+
 ML model is trained when the backend starts.
+
 Dataset is for demonstration purposes.
 
 
