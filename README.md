@@ -27,7 +27,14 @@ Vite 8 requires Node.js 20.19+ or 22.12+.
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e3370412-d9a4-442c-8ac5-7185244cafb2" />
 
+## Known Limitations
 
+Dashboard analytics are partly demo/static.
+No token based authentication.
+CSV used instead of a database.
+Some Settings, Reports, and Upload options are UI placeholders.
+ML model is trained when the backend starts.
+Dataset is for demonstration purposes.
 
 
 ## Run the Project
@@ -163,75 +170,6 @@ For normal local development, this file is optional because the frontend already
 | GET    | `/api/stats`    | Get feedback statistics        |
 | POST   | `/api/analyze`  | Analyze a new feedback message |
 
-### Analyze Feedback
-
-**Request**
-
-```http
-POST /api/analyze
-Content-Type: application/json
-```
-
-```json
-{
-  "text": "My money was deducted but the payment failed"
-}
-```
-
-**Response**
-
-```json
-{
-  "sentiment": "Negative",
-  "sentiment_confidence": 92.4,
-  "category": "Payment",
-  "category_confidence": 89.7,
-  "priority": "High",
-  "priority_confidence": 91.2,
-  "intent": "Failed Transaction",
-  "similar_feedback": []
-}
-```
-
-The backend validates the input and returns an error when the `text` field is empty.
-
----
-
-## Machine Learning Pipeline
-
-The ML model is initialized when Flask starts.
-
-```text
-Customer Feedback
-        │
-        ▼
-   Text Cleaning
-        │
-        ▼
-  TF-IDF Vectorization
-        │
-        ├───────────────┐
-        ▼               ▼
-Sentiment Model   Category Model
-        │               │
-        └───────┬───────┘
-                ▼
-          Priority Model
-                │
-                ▼
-          Predictions
-                │
-                ▼
-       Cosine Similarity
-                │
-                ▼
-       Similar Feedback
-```
-
-The backend uses separate Logistic Regression classifiers for sentiment, category, and priority. Feedback vectors are also used for cosine-similarity matching.
-
----
-
 ## Dataset
 
 The dataset is located at:
@@ -266,26 +204,6 @@ Rahul Mehta,Payment failed but the amount was deducted from my account,negative,
 
 ---
 
-## Application Pages
-
-### Dashboard
-
-Provides a high-level view of customer feedback with summary cards, charts, issue categories, and recent feedback.
-
-### Feedback
-
-Displays customer feedback in a searchable and filterable table.
-
-### AI Analyze
-
-Allows a user to submit a customer message and receive:
-
-* Sentiment
-* Category
-* Priority
-* Confidence
-* Intent
-* Similar feedback
 
 ### Analytics
 
