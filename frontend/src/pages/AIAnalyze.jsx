@@ -12,6 +12,31 @@ export default function AIAnalyze() {
   const [text, setText] = useState("");
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState(null);
+  const [feedback, setFeedback] = useState("");
+
+
+const sendFeedback = async() => {
+  await fetch("http://localhost:5000/api/feedback", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+  body: JSON.stringify({
+    feedback: text,
+    predictedSentiment: result.sentiment,
+    predictedCategory: result.Category,
+    predictedPriority: result.priority,
+    predictedIntent: result.intent,
+    sentimentConfidence: result.sentimentConfidence,
+    categoryConfidence: result.categoryConfidence,
+    priorityConfidence: result.priorityConfidence,
+    predictCorrect: true,
+    correctedSentiment: result.sentiment,
+    correctedCategory: result.category,
+    correctedPriority: result.priority,
+
+  }),  });
+   setFeedback(true);
+};
+
 
 const analyze = async () => {
   if (!text.trim()) return;
@@ -131,6 +156,36 @@ const analyze = async () => {
                 />
                 <ResultBlock title="Intent" value={result.intent} confidence={null} />
               </div>
+
+              <data value="">
+                <p>Wass this preddicyion correct</p>
+               <button onClick={()=>{
+                setFeedback("No")
+               }}>
+                No
+
+                </button>
+
+{feedback && <p>FEEDBACK : {feedback} </p>}
+              </data>
+
+        {!feedback ? (
+          <>
+        save feedback?
+        <button
+          onClick={sendFeedback}
+          style={{marginTop:"10px", padding:"5px 10px"}}
+        >
+          Yes
+        </button>
+         <buttton>No</buttton>
+
+          </>
+                ) : (
+                  <p> feedback saved</p>
+
+                )}
+
 
               <div className="similar-box">
                 <div>
